@@ -1,6 +1,8 @@
 # Node modules
 node_modules/
 
+echo ".env" >> .gitignore
+
 # Environment variables
 .env
 
